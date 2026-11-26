@@ -1,0 +1,382 @@
+{
+ "items": {
+  "Exoskeleton_Neutral_Armor": {
+   "uk": "Екзоскелет",
+   "en": "Exoskeleton",
+   "faction": "neutral",
+   "source": "base",
+   "unique": false
+  },
+  "Jemmy_Neutral_Armor": {
+   "uk": "Шкіряна куртка",
+   "en": "Leather Jacket",
+   "faction": "neutral",
+   "source": "base",
+   "unique": false
+  },
+  "Nasos_Neutral_Armor": {
+   "uk": "ЗЗК «Дослідник»",
+   "en": "OZK Explorer’s Suit",
+   "faction": "neutral",
+   "source": "base",
+   "unique": false
+  },
+  "Newbee_Neutral_Armor": {
+   "uk": "Комбінезон «Дебют»",
+   "en": "Debut Suit",
+   "faction": "neutral",
+   "source": "base",
+   "unique": false
+  },
+  "SEVA_Neutral_Armor": {
+   "uk": "Комбінезон «СЕВА»",
+   "en": "SEVA Suit",
+   "faction": "neutral",
+   "source": "base",
+   "unique": false
+  },
+  "Zorya_Neutral_Armor": {
+   "uk": "Комбінезон «Зоря»",
+   "en": "Sunrise Suit",
+   "faction": "neutral",
+   "source": "base",
+   "unique": false
+  },
+  "Zorya_Tourist_Armor": {
+   "uk": "Комбінезон туриста",
+   "en": "Tourist Suit",
+   "faction": "neutral",
+   "source": "PreOrder",
+   "unique": true
+  },
+  "Light_Neutral_Helmet": {
+   "uk": "Протигаз «Оптик»",
+   "en": "Optician Gas Mask",
+   "faction": "neutral",
+   "source": "base",
+   "unique": false
+  },
+  "Jacket_Bandit_Armor": {
+   "uk": "Бандитська косуха",
+   "en": "Armored Bandit Jacket",
+   "faction": "bandit",
+   "source": "base",
+   "unique": false
+  },
+  "Middle_Bandit_Armor": {
+   "uk": "Комбінезон «Мародер»",
+   "en": "Marauder Suit",
+   "faction": "bandit",
+   "source": "base",
+   "unique": false
+  },
+  "SkinJacket_Bandit_Armor": {
+   "uk": "Бандитська куртка",
+   "en": "Bandit Jacket",
+   "faction": "bandit",
+   "source": "base",
+   "unique": false
+  },
+  "Light_Bandit_Helmet": {
+   "uk": "Протигаз ПГ-4 «Лещата»",
+   "en": "PG-4 Facehugger Gas Mask",
+   "faction": "bandit",
+   "source": "base",
+   "unique": false
+  },
+  "Exoskeleton_Mercenaries_Armor": {
+   "uk": "Екзоскелет «Брумбар»",
+   "en": "Brummbar Exoskeleton",
+   "faction": "mercenaries",
+   "source": "base",
+   "unique": false
+  },
+  "Heavy_Mercenaries_Armor": {
+   "uk": "ПСЗ-9Н «Вовкодав»",
+   "en": "PSZ-9N Wolfhound",
+   "faction": "mercenaries",
+   "source": "base",
+   "unique": false
+  },
+  "Light_Mercenaries_Armor": {
+   "uk": "Комбінезон найманця",
+   "en": "Mercenary Suit",
+   "faction": "mercenaries",
+   "source": "base",
+   "unique": false
+  },
+  "UltraLight_Mercenaries_Armor": {
+   "uk": "Полегшений комбінезон найманця",
+   "en": "Mercenary's Light Suit",
+   "faction": "mercenaries",
+   "source": "Deluxe",
+   "unique": true
+  },
+  "Light_Mercenaries_Helmet": {
+   "uk": "Протигаз ПА-7",
+   "en": "PA-7 Gas Mask",
+   "faction": "mercenaries",
+   "source": "base",
+   "unique": false
+  },
+  "Default_Military_Armor": {
+   "uk": "Бронежилет ПСЗ-7",
+   "en": "PSZ-7 Military Body Armor",
+   "faction": "military",
+   "source": "base",
+   "unique": false
+  },
+  "Heavy2_Military_Armor": {
+   "uk": "Бронекостюм «Берил-5М»",
+   "en": "Berill-5M Armored Suit",
+   "faction": "military",
+   "source": "base",
+   "unique": false
+  },
+  "Battle_Military_Helmet": {
+   "uk": "Балістичний шолом",
+   "en": "Ballistic Helmet",
+   "faction": "military",
+   "source": "base",
+   "unique": false
+  },
+  "Heavy_Military_Helmet": {
+   "uk": "Тактичний шолом",
+   "en": "Tactical Helmet",
+   "faction": "military",
+   "source": "base",
+   "unique": false
+  },
+  "Light_Military_Helmet": {
+   "uk": "Протигаз ПА-10",
+   "en": "PA-10 Gas Mask",
+   "faction": "military",
+   "source": "base",
+   "unique": false
+  },
+  "Anomaly_Scientific_Armor": {
+   "uk": "ССП-99 «Еколог»",
+   "en": "SSP-99 Ecologist",
+   "faction": "scientific",
+   "source": "base",
+   "unique": false
+  },
+  "HeavyAnomaly_SIRCA_Armor": {
+   "uk": "ССП-100М НДІЧАЗ",
+   "en": "SSP-100M SIRCAA",
+   "faction": "scientific",
+   "source": "Deluxe",
+   "unique": true
+  },
+  "HeavyAnomaly_Scientific_Armor": {
+   "uk": "ССП-100 «Відкриття»",
+   "en": "SSP-100 Discovery",
+   "faction": "scientific",
+   "source": "base",
+   "unique": false
+  },
+  "Battle_Svoboda_Armor": {
+   "uk": "ПСЗ-5В «Страж волі»",
+   "en": "PSZ-5V Guardian of Freedom Suit",
+   "faction": "svoboda",
+   "source": "base",
+   "unique": false
+  },
+  "Exoskeleton_Svoboda_Armor": {
+   "uk": "Екзоскелет «Воля»",
+   "en": "Liberty Exoskeleton",
+   "faction": "svoboda",
+   "source": "base",
+   "unique": false
+  },
+  "HeavyExoskeleton_Svoboda_Armor": {
+   "uk": "Екзокостюм «Оплот»",
+   "en": "Bulwark Exosuit",
+   "faction": "svoboda",
+   "source": "base",
+   "unique": false
+  },
+  "Heavy_Svoboda_Armor": {
+   "uk": "ПСЗ-12В «Булат»",
+   "en": "PSZ-12V Bulat",
+   "faction": "svoboda",
+   "source": "base",
+   "unique": false
+  },
+  "Rook_Svoboda_Armor": {
+   "uk": "Комбінезон «Вітер волі»",
+   "en": "Wind of Freedom Suit",
+   "faction": "svoboda",
+   "source": "base",
+   "unique": false
+  },
+  "SEVA_Svoboda_Armor": {
+   "uk": "Комбінезон «СЕВА-В»",
+   "en": "SEVA-V Suit",
+   "faction": "svoboda",
+   "source": "base",
+   "unique": false
+  },
+  "Heavy_Svoboda_Helmet": {
+   "uk": "Шолом «Маска-1»",
+   "en": "Mask-1 Helmet",
+   "faction": "svoboda",
+   "source": "base",
+   "unique": false
+  },
+  "Battle_Dolg_Armor": {
+   "uk": "ПСЗ-5Д «Універсальний захист»",
+   "en": "PSZ-5D Universal Protection",
+   "faction": "dolg",
+   "source": "base",
+   "unique": false
+  },
+  "Battle_Dolg_End_Armor": {
+   "uk": "Комбінезон Х7",
+   "en": "X7 Suit",
+   "faction": "dolg",
+   "source": "base",
+   "unique": true
+  },
+  "Exoskeleton_Dolg_Armor": {
+   "uk": "Екзоскелет «Панцир»",
+   "en": "Cuirass Exoskeleton",
+   "faction": "dolg",
+   "source": "base",
+   "unique": false
+  },
+  "HeavyExoskeleton_Dolg_Armor": {
+   "uk": "Екзокостюм «Щит \"Долгу\"»",
+   "en": "Shield of Duty Exosuit",
+   "faction": "dolg",
+   "source": "base",
+   "unique": false
+  },
+  "Heavy_Dolg_Armor": {
+   "uk": "ПСЗ-9Д «Броня \"Долгу\"»",
+   "en": "PSZ-9D Duty Armor",
+   "faction": "dolg",
+   "source": "base",
+   "unique": false
+  },
+  "Rook_Dolg_Armor": {
+   "uk": "Комбінезон «Рекрут»",
+   "en": "Recruit Suit",
+   "faction": "dolg",
+   "source": "base",
+   "unique": false
+  },
+  "SEVA_Dolg_Armor": {
+   "uk": "Комбінезон «СЕВА-Д»",
+   "en": "SEVA-D Suit",
+   "faction": "dolg",
+   "source": "base",
+   "unique": false
+  },
+  "Heavy_Duty_Helmet": {
+   "uk": "Шолом «Сфера-М20»",
+   "en": "Sphere M20 Helmet",
+   "faction": "dolg",
+   "source": "base",
+   "unique": false
+  },
+  "Light_Duty_Helmet": {
+   "uk": "Протигаз «Аврора»",
+   "en": "Aurora Gas Mask",
+   "faction": "dolg",
+   "source": "base",
+   "unique": false
+  },
+  "Battle_Monolith_Armor": {
+   "uk": "Комбінезон «Циркон»",
+   "en": "Zircon Suit",
+   "faction": "monolith",
+   "source": "base",
+   "unique": false
+  },
+  "Exoskeleton_Monolith_Armor": {
+   "uk": "Екзоскелет «Алмаз»",
+   "en": "Diamond Exoskeleton",
+   "faction": "monolith",
+   "source": "base",
+   "unique": false
+  },
+  "HeavyAnomaly_Monolith_Armor": {
+   "uk": "Комбінезон «Корунд»",
+   "en": "Corundum Suit",
+   "faction": "monolith",
+   "source": "base",
+   "unique": false
+  },
+  "HeavyExoskeleton_Monolith_Armor": {
+   "uk": "Екзокостюм «Рубін»",
+   "en": "Ruby Exosuit",
+   "faction": "monolith",
+   "source": "base",
+   "unique": false
+  },
+  "SEVA_Monolith_Armor": {
+   "uk": "Комбінезон «Мандрівник»",
+   "en": "Wanderer Suit",
+   "faction": "monolith",
+   "source": "Deluxe",
+   "unique": true
+  },
+  "BattleExoskeleton_Varta_Armor": {
+   "uk": "Екзоскелет «Оператор»",
+   "en": "Operator Exoskeleton",
+   "faction": "varta",
+   "source": "base",
+   "unique": false
+  },
+  "Battle_Varta_Armor": {
+   "uk": "ПСЗ-20W «Конвой»",
+   "en": "PSZ-20W Convoy",
+   "faction": "varta",
+   "source": "base",
+   "unique": false
+  },
+  "HeavyExoskeleton_Varta_Armor": {
+   "uk": "ПСЗ-21W «Штурм»",
+   "en": "PSZ-21W Shturm",
+   "faction": "varta",
+   "source": "Ultimate",
+   "unique": true
+  },
+  "Heavy_Varta_Helmet": {
+   "uk": "Протигаз «Аерозахист»",
+   "en": "Aeroprotection Gas Mask",
+   "faction": "varta",
+   "source": "base",
+   "unique": false
+  },
+  "Battle_Spark_Armor": {
+   "uk": "ПСЗ-5І «Яструб»",
+   "en": "PSZ-5I Hawk",
+   "faction": "spark",
+   "source": "base",
+   "unique": false
+  },
+  "HeavyAnomaly_Spark_Armor": {
+   "uk": "ССП-100І «Пошук»",
+   "en": "SSP-100I Survey",
+   "faction": "spark",
+   "source": "base",
+   "unique": false
+  },
+  "HeavyBattle_Spark_Armor": {
+   "uk": "ПСЗ-9І «Сокіл»",
+   "en": "PSZ-9I Falcon",
+   "faction": "spark",
+   "source": "base",
+   "unique": false
+  },
+  "SEVA_Spark_Armor": {
+   "uk": "Комбінезон «СЕВА-І»",
+   "en": "SEVA-I Suit",
+   "faction": "spark",
+   "source": "base",
+   "unique": false
+  }
+ }
+}
